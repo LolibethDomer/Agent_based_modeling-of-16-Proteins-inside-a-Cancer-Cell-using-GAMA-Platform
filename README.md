@@ -1,0 +1,2 @@
+# Agent_based_modeling-of-16-Proteins-inside-a-Cancer-Cell-using-GAMA-Platform
+Developed an agent-based model inside a cell to study and explore the behavior of the interactions between the three crucial parts or interplay of cancer development: the metabolism, epithelial-mesenchymal transition (EMT), and metastasis. This simulation will try to replicate the environment of a tumor cell using the 16 gene or metabolite nodes that will provide a quantitative result and analysis to predict the final cell state and comprehend the mechanisms between cancer and development.
